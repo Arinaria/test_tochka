@@ -1,4 +1,5 @@
 import React, { useState, useCallback } from 'react';
+import './styles.css';
 
 type Player = 1 | 2;
 type CellValue = 0 | Player;
