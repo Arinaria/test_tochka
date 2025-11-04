@@ -276,7 +276,7 @@ function App() {
           <h1>Игра 4 в ряд</h1>
         </header>
         <main>
-          <img src="/logo.jpg" alt="Логотип игры" className="logo" />
+          <img src="/logo.png" alt="Логотип игры" className="logo" />
           <button className="play-btn" onClick={startGame}>
             НАЧАТЬ ИГРАТЬ
           </button>
